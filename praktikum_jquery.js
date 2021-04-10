@@ -1,4 +1,4 @@
-document.getElementById('nama').innerHTML = 'Anshori';
+document.getElementById('nama').innerHTML = 'Muhammad Anshori Akbar';
 
 $('#nim').html('20190140130');
 
